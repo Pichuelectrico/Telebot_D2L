@@ -9,7 +9,7 @@
 
 # Introducción
 
-Este proyecto permite extraer la lista de tareas programadas en la plataforma D2L. Los datos se extraen en un archivo TXT del cual envia las tareas por medio de un bot de Telegram al teléfono, estamos trabajando en mejorarlo
+Este proyecto permite extraer la lista de tareas programadas en la plataforma D2L. Los datos se extraen en un archivo TXT del cual envia las tareas por medio de un bot de Telegram al teléfono, estamos trabajando en mejorarlo.
 
 # Objetivos
 
