@@ -9,13 +9,13 @@
 
 # Introducción
 
-Este proyecto permite extraer la lista de tareas programadas en la plataforma D2L. Los datos se extraen en un archivo TXT del cual envia las tareas por medio de un bot de Telegram al teléfono, estamos trabajando en mejorarlo.
+Este proyecto permite extraer la lista de tareas programadas en la plataforma D2L de la Universidad San Francisco de Quito (USFQ). Los datos se extraen en un archivo TXT del cual envia las tareas por medio de un bot de Telegram al teléfono, estamos trabajando en mejorarlo.
 
 # Objetivos
 
 Los objetivos de este proyecto son:
 
-- Extraer la lista de tareas programadas en la plataforma D2L.
+- Extraer la lista de tareas programadas en la plataforma D2L de la Universidad San Francisco de Quito.
 - Enviar los datos extraídos por medio de un bot de Telegram al teléfono.
 
 # Requisitos
